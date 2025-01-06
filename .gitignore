@@ -108,6 +108,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.sotopia_venv
 
 # Spyder project settings
 .spyderproject

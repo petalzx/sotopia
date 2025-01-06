@@ -128,7 +128,7 @@ class AgentAction(Message):
             case "leave":
                 return "left the conversation"
 
-
+# Need to study this type
 ScriptInteractionReturnType = tuple[
     list[list[tuple[str, str, Message]]], list[tuple[str, Message]]
 ]
